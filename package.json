@@ -1,0 +1,33 @@
+{
+  "name": "gulp-firebase-bolt-compiler",
+  "version": "0.1.0",
+  "description": "Firebase Bolt plugin for Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fny/gulp-firebase-bolt-compiler.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "firebase"
+  ],
+  "author": "Faraz Yashar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fny/gulp-firebase-bolt-compiler/issues"
+  },
+  "homepage": "https://github.com/fny/gulp-firebase-bolt-compiler#readme",
+  "dependencies": {
+    "firebase-bolt": "^0.8.0",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "event-stream": "^3.3.2",
+    "jasmine": "^2.4.1",
+    "vinyl": "^1.1.1"
+  }
+}

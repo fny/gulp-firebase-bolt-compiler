@@ -1,0 +1,9 @@
+type Circle {
+  radius: Number
+}
+
+path /circles is Circle;
+
+type Square extends Circle {
+  WHAT IS GOING ON
+}
