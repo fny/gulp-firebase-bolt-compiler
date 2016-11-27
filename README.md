@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/fny/gulp-firebase-bolt-compiler.svg?branch=master)](https://travis-ci.org/fny/gulp-firebase-bolt-compiler) [![npm version](https://badge.fury.io/js/gulp-firebase-bolt-compiler.svg)](http://badge.fury.io/js/gulp-firebase-bolt-compiler) [![Dependencies](https://david-dm.org/fny/gulp-firebase-bolt-compiler.svg)](https://david-dm.org/fny/gulp-firebase-bolt-compiler)
 
-Firebase Bolt plugin for Gulp.
+No frills Firebase Bolt plugin for Gulp that simply wraps Firebase's [Bolt](https://github.com/firebase/bolt) library.
+
+Note that all releases, even v0.x, are stable. The version simply reflects the suppored Bolt compiler version (in this case any v0.y.)
 
 ## Install
 
